@@ -3,14 +3,6 @@
 ## Descripción
 Este repositorio contiene los códigos utilizados para el Primer Trabajo Práctico de la materia Tópicos de Microeconomía. 
 
-## Instrucciones de Entrega
-- Enviar el informe en formato **PDF**, incluyendo respuestas, resultados, tablas, etc.
-- Adjuntar un archivo `.do` con el código de **Stata** para reproducir todos los resultados.
-- Verificar que el código funcione correctamente antes de enviarlo.
-- Las tablas deben estar en un formato adecuado (**no capturas de pantalla de Stata**).
-- No incluir el código de Stata en el PDF, pero indicar en el `.do` a qué parte del trabajo corresponde cada análisis.
-- Incluir el **nombre y apellido** de los integrantes en el PDF y en el archivo `.do`.
-
 ## Contenido
 El trabajo práctico se centra en el análisis de datos utilizando **Stata** y abarca los siguientes temas:
 
@@ -30,13 +22,7 @@ El trabajo práctico se centra en el análisis de datos utilizando **Stata** y a
 - Análisis de efectos dinámicos mediante estudios de eventos (*event study*).
 - Estimaciones de **ATT** con el método de *Callaway y Sant’Anna (2021)*.
 
-## Requisitos
-- **Stata**
-- Archivos de datos proporcionados
-
-## Autores
-*(Nombres y apellidos de los integrantes)*
+## Autor
+*(Lucas Ordoñez)*
 
 ---
-
-Cualquier consulta sobre el código o los resultados puede dirigirse a los integrantes del grupo.
